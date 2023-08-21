@@ -1,2 +1,2 @@
 # Solvdle
-AI Bot that optimally solves the wordle
+AI Bot that optimally solves the NYT Wordle game
